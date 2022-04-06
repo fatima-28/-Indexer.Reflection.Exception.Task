@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A2B91F4C-B028-46F4-96F1-88CEBBEC9A16}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task1.Exception FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1.Exception/EmailSender.cs">
+    <Files>
+      <File FileName="Task1.Exception/Program.cs" Line="34" Column="73" />
+      <File FileName="Task1.Exception/MessageSender.cs" Line="8" Column="51" />
+      <File FileName="Task1.Exception/EmailSender.cs" Line="8" Column="50" />
+      <File FileName="Task1.Exception/SmsSender.cs" Line="12" Column="1" />
+      <File FileName="Task1.Exception/NotExsistExseption.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task1.Exception" expanded="True">
+            <Node name="Task1.Exception" expanded="True">
+              <Node name="EmailSender.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

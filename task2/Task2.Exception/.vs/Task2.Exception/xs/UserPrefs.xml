@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CBC14A65-AA3E-4FB3-8746-67AEA9CDA001}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task2.Exception/Lesson.cs">
+    <Files>
+      <File FileName="Task2.Exception/Program.cs" Line="12" Column="68" />
+      <File FileName="Task2.Exception/Lesson.cs" Line="7" Column="30" />
+      <File FileName="Task2.Exception/Numerical.cs" Line="22" Column="13" />
+      <File FileName="Task2.Exception/Verbal.cs" Line="24" Column="102" />
+      <File FileName="Task2.Exception/TimeException.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task2.Exception" expanded="True">
+            <Node name="Task2.Exception" expanded="True">
+              <Node name="Lesson.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task2.Exception FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
